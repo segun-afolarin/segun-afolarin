@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Segun Afolarin</h1>
+<h1 align="center">Hi 👋 I'm Afolarin Oluwasegun</h1>
 <h3 align="center">Fullstack Developer | Graphic Designer</h3>
 
 <p align="center">
